@@ -1,0 +1,6 @@
+{
+  "name": "ADI",
+  "description": "Anenji Datalogger Interface - SCADA inspired solar datalogger interface",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
